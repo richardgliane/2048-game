@@ -49,7 +49,7 @@ TEXT_COLORS = {
 class Game2048:
     def __init__(self):
         self.screen = pygame.display.set_mode((WINDOW_SIZE, WINDOW_SIZE))
-        pygame.display.set_caption("2048")
+        pygame.display.set_caption("2048 - AI-Generated")
         self.grid = [[0] * GRID_SIZE for _ in range(GRID_SIZE)]
         self.font = pygame.font.Font(None, 72)
         self.score = 0
