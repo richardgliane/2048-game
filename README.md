@@ -1,4 +1,4 @@
-# 2048 Game
+# 2048 - AI-Generated
 
 A modern implementation of the classic 2048 puzzle game built with Python and Pygame. Features a clean, minimalist design with smooth animations and beautiful graphics.
 
